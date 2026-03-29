@@ -16,6 +16,8 @@ A real-time QR code detection system with seed image matching and orientation fe
 - **Low Latency**: Optimized threading for minimal delay
 - **Interactive Controls**: Easy keyboard shortcuts for loading seeds and resetting
 
+<img width="1560" height="830" alt="Image" src="https://github.com/user-attachments/assets/8516ac0e-63ce-47e4-89b8-4f9134956c65" />
+
 ## 📋 Requirements
 
 - Python 3.7+
@@ -33,4 +35,3 @@ git clone https://github.com/yourusername/isro-qr-drone-detector.git
 cd isro-qr-drone-detector
 pip install -r requirements.txt
 
-<img width="1560" height="830" alt="Image" src="https://github.com/user-attachments/assets/8516ac0e-63ce-47e4-89b8-4f9134956c65" />
