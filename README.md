@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
 
 A real-time QR code detection system with seed image matching and orientation feedback for drone tracking applications, developed for ISRO IROUC 2026.
+<img width="1597" height="932" alt="Image" src="https://github.com/user-attachments/assets/55ee01eb-925f-4eb8-a36d-57093b743b93" />
+
 
 ## 🚀 Features
 
