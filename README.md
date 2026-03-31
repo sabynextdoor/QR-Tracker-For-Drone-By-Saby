@@ -7,7 +7,7 @@
 A real-time QR code detection system with seed image matching and orientation feedback for drone tracking applications, developed for ISRO IROUC 2026.
 <img width="1597" height="932" alt="Image" src="https://github.com/user-attachments/assets/55ee01eb-925f-4eb8-a36d-57093b743b93" />
 
-https://github.com/user-attachments/assets/51a339ec-44e0-4f77-94e9-aa5939c71397
+https://github.com/user-attachments/assets/9028ce35-8087-4bdd-af5b-ecbceb585220
 
 TO INSTALL THIS DOWNLOAD AND USE THE Drone_QR_angular_BY_SABY.py  FILE AND LAUNCH IN VSCODE
 
@@ -95,8 +95,7 @@ The system uses 6 different image processing techniques to ensure maximum detect
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/51a339ec-44e0-4f77-94e9-aa5939c71397
-
+https://github.com/user-attachments/assets/9028ce35-8087-4bdd-af5b-ecbceb585220
 ## 📋 Requirements
 
 - Python 3.7+
