@@ -452,7 +452,7 @@ Made with ❤️ for ISRO IROUC 2026 by saby
 Last Updated: March 2026
 
 text
-TO INSTALL THIS DOWNLOAD AND USE THE TEST.PY FILE AND LAUNCH IN VSCODE
+TO INSTALL THIS DOWNLOAD AND USE THE PYTHON FILE AND LAUNCH IN VSCODE
 
 This README is comprehensive and includes:
 - Detailed feature list
