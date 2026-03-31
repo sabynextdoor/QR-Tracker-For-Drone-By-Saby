@@ -7,6 +7,9 @@
 A real-time QR code detection system with seed image matching and orientation feedback for drone tracking applications, developed for ISRO IROUC 2026.
 <img width="1597" height="932" alt="Image" src="https://github.com/user-attachments/assets/55ee01eb-925f-4eb8-a36d-57093b743b93" />
 
+https://github.com/user-attachments/assets/51a339ec-44e0-4f77-94e9-aa5939c71397
+
+
 
 ## 🚀 Features
 
@@ -27,7 +30,7 @@ A real-time QR code detection system with seed image matching and orientation fe
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](https://github.com/sabynextdoor/QR-Tracker-for-drone-isro-by-)
 
-> **Real-time QR Code Detection System with Drone Integration for ISRO IROUC 2026**
+> **Real-time QR Code Detection System with Drone Integration for ISRO IROUC 2026 by saby**
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
@@ -437,9 +440,8 @@ OpenCV Community - For the excellent computer vision library
 Contributors - Everyone who helped test and improve the system
 
 📞 Contact & Support
-GitHub Issues: Report a bug
 
-Email: Your email address
+Email: sabynextdoor@gmail.com
 
 Documentation: Wiki
 
